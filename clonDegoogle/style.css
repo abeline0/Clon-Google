@@ -1,3 +1,19 @@
 body {
-    background-color: aqua;
+    background-color: white;
+}
+
+/* id="lupa"    cuando sea un solo elemento*/
+
+#Lupa {
+    color: purple;
+}
+
+#google {
+    width:400px;
+    height: 200px;
+}
+/* class="icono"   cuando sea para uno o más elementos*/
+.icono {
+    width: 30px;
+    height: 30px;
 }
